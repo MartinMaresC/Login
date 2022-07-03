@@ -1,0 +1,22 @@
+{
+    "usuarios":[
+        {
+            "id":1,
+            "apellido_p": "Mares",
+            "apellido_m": "Cruz",
+            "nombre": "Martin",
+            "username": "mmares",
+            "pasword": "827ccb0eea8a706c4c34a16891f84e7b"
+        },
+
+        {
+            "id":1,
+            "apellido_p": "Rolando",
+            "apellido_m": "Calles",
+            "nombre": "Nepo",
+            "username": "rcalles",
+            "pasword": "01cfcd4f6b8770febfb40cb906715822"
+        }
+
+    ]
+}

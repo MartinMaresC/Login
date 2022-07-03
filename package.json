@@ -1,0 +1,20 @@
+{
+  "name": "login",
+  "version": "1.0.0",
+  "description": "Login using React",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx json-server --watch db.json --port 3001"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MartinMaresC/Login.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MartinMaresC/Login/issues"
+  },
+  "homepage": "https://github.com/MartinMaresC/Login#readme"
+}
